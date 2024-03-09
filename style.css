@@ -1,5 +1,8 @@
 body {
     margin: auto 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .main-nav {
@@ -37,7 +40,7 @@ a {
     width: 100%;
 }
 
-.logo {
+img {
     position: fixed;
     bottom: 0;
     margin: 10px;
